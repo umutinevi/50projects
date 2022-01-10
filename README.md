@@ -1,7 +1,7 @@
 # 50projects
 
 The codes that I follow and created with "50Projectsin50Days" Udemy Course.
-All projects contains some usefull widgets that we can use our frontend projects.
+All projects contains some useful widgets that we can use our frontend projects.
 
 - You can find project boiler plate at [Boiler Plate](/_Projects_Starter)
 
