@@ -6,3 +6,4 @@ The codes that I follow and created with "50Projectsin50Days" Udemy Course
 
 1. [Widget 1 - Expanding Cards](W1_ExpandingCards)
 2. [Widget 2 - Progress Steps](W2_ProgressSteps)
+3. [Widget 3 - Rotating Navigation](W3_RotatingNavigation)
