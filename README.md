@@ -9,3 +9,7 @@ All projects contains some usefull widgets that we can use our frontend projects
 2. [Widget 2 - Progress Steps](W2_ProgressSteps)
 3. [Widget 3 - Rotating Navigation](W3_RotatingNavigation)
 4. [Widget 4 - Rotating Navigation](W4_HiddenSearch)
+5. [Widget 5 - Blurry Loading Image](W5_BlurryLoading)
+6. [Widget 6 - Scroll Animation](W6_ScrollAnimation)
+7. [Widget 7 - Split Landing Page](W7_SplitLandingPage)
+8. [Widget 8 - Form Input Wave](W8_FormInputWave)
